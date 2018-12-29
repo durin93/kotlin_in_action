@@ -4,10 +4,17 @@ fun main(args: Array<String>) {
     val persons = listOf(Person("영희"),Person("철수",29))
     val oldest = persons.maxBy { it.age ?: 0}
     println("나이가 가장 많은 사람: $oldest")
-
     println(max(1,2))
+
+    val name = if(args.size > 0) args[0] else "Kotlin"
+    println("Hello, $name")
+
 }
+/*
 
 fun max(a: Int, b: Int): Int{
     return if(a>b) a else b
 }
+*/
+
+fun max(a: Int, b: Int): Int = if(a>b) a else b
