@@ -16,6 +16,11 @@ fun main(args: Array<String>) {
     println(mix(Color.RED,Color.YELLOW))
     println(mixOptimized(Color.RED,Color.RED))
 
+    println(eval(Sum(Sum(Num(1),Num(2)),Num(4))))
+
+    for(i in 1..10){
+        print(fizzBuzz(i))
+    }
 
 }
 /*
@@ -50,3 +55,4 @@ fun mixOptimized(c1: Color, c2: Color): Color {
     }
     return color
 }
+
