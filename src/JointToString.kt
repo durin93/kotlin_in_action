@@ -1,3 +1,4 @@
+@file:JvmName("ChangeName")
 package strings
 import java.lang.StringBuilder
 
@@ -16,3 +17,10 @@ postfix: String = ""
     return result.toString()
 }
 
+var opCount = 0
+fun performOperation(){
+    opCount++
+}
+fun reportOpertationCount(){
+    println("operation performed $opCount times")
+}
