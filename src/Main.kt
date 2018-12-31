@@ -1,4 +1,5 @@
 import apple.laf.JRSUIConstants
+import strings.joinToString
 import java.lang.StringBuilder
 
 data class Main(val name: String, val age: Int? = null)
@@ -89,21 +90,5 @@ fun mixOptimized(c1: Color, c2: Color): Color {
         else -> Color.INDIGO
     }
     return color
-}
-
-
-fun <T> joinToString(
-    collection: Collection<T>,
-    separator: String = ", ",
-    prefix: String = "",
-    postfix: String = ""
-): String {
-    val result = StringBuilder(prefix)
-    for ((index, element) in collection.withIndex()) {
-        if (index > 0) result.append(separator) //첫 원소 앞에는 구분자를 붙이면 안된다
-        result.append(element)
-    }
-    result.append(postfix)
-    return result.toString()
 }
 
