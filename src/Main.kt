@@ -1,8 +1,12 @@
 import apple.laf.JRSUIConstants
 import strings.joinToString
+import strings.test2
 import java.lang.StringBuilder
 
-data class Main(val name: String, val age: Int? = null)
+data class Main(val name: String, val age: Int? = null){
+    fun a():Int {return 1}
+    private fun b():Int {return 1}
+}
 
 fun main(args: Array<String>) {
     /* val persons = listOf(Main("영희"),Main("철수",29))
@@ -91,4 +95,19 @@ fun mixOptimized(c1: Color, c2: Color): Color {
     }
     return color
 }
+
+fun String.asd(): Char = this.get(this.length-1)
+
+
+/*data class Main(val name: String, val age: Int? = null){
+    fun a():Int {return 1}
+}*/
+
+fun Main.makeFuntion(): Int = this.a()
+//fun Main.makeFuntion2(): Int = this.b()
+
+
+
+
+
 

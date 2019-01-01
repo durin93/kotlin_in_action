@@ -2,6 +2,10 @@
 package strings
 import java.lang.StringBuilder
 
+data class test2(val name: String, val age: Int? = null)
+
+fun String.lastChar() : Char = get(this.length - 1) //this 생략 가능
+
 fun <T> joinToString(
 collection: Collection<T>,
 separator: String = ", ",
@@ -18,7 +22,7 @@ postfix: String = ""
 }
 
 const val opCount = 0
-fun performOperation(){
+private fun performOperation(){
     opCount
 }
 fun reportOpertationCount(){
