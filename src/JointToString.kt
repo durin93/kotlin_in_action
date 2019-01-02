@@ -1,10 +1,14 @@
 @file:JvmName("ChangeName")
 package strings
 import java.lang.StringBuilder
+import Main
+
+fun String.lastChar() : Char = get(this.length - 1) //this 생략 가능
+
+fun Main.makeFuntion(): Int = this.a()
 
 data class test2(val name: String, val age: Int? = null)
 
-fun String.lastChar() : Char = get(this.length - 1) //this 생략 가능
 
 fun <T> joinToString(
 collection: Collection<T>,

@@ -1,11 +1,16 @@
-import apple.laf.JRSUIConstants
 import strings.joinToString
-import strings.test2
-import java.lang.StringBuilder
 
 data class Main(val name: String, val age: Int? = null){
-    fun a():Int {return 1}
+    fun a():Int {
+
+        return 1}
     private fun b():Int {return 1}
+
+}
+
+fun view(){
+    val view: View = Button()
+    view.click()
 }
 
 fun main(args: Array<String>) {
@@ -63,7 +68,14 @@ fun main(args: Array<String>) {
     joinToString(list)
     joinToString(list, "; ")
     joinToString(list, postfix = ";", prefix = "# ")
+
+    val view: View = Button()
+    view.showOff()
 }
+
+
+
+
 /*
 fun max(a: Int, b: Int): Int{
     return if(a>b) a else b
@@ -103,10 +115,16 @@ fun String.asd(): Char = this.get(this.length-1)
     fun a():Int {return 1}
 }*/
 
-fun Main.makeFuntion(): Int = this.a()
 //fun Main.makeFuntion2(): Int = this.b()
+open class View{
+    open fun click() = println("View clicked")
+}
+class Button: View(){
+    override fun click() = println("Button clicked")
+}
 
-
+fun View.showOff() = println("I'm a view")
+fun Button.showOff() = println("I'm a button")
 
 
 
