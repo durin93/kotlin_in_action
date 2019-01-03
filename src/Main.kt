@@ -49,8 +49,10 @@ fun main(args: Array<String>) {
 
      println("Kotlin" in "Java".."Scala")
      println("K" in "A".."B")
-
-     println("Kotlin" in setOf("Java", "Kotlin")) // 여기는 Kotlin이 들어있지 않다.*/
+*/
+    println("inin")
+     println("Kotlin" in setOf("Java", "Kotlin")) // 여기는 Kotlin이 들어있지 않다.//
+     println("Kotlin" in setOf("Kotlin", "Java")) // 여기는 Kotlin이 들어있지 않다.//
 
     val set = hashSetOf(1, 7, 53)
     val list = arrayListOf(1, 7, 53)
