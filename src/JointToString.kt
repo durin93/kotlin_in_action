@@ -1,11 +1,11 @@
 @file:JvmName("ChangeName")
 package strings
 import java.lang.StringBuilder
-import Main
+import aas.Main
 
 fun String.lastChar() : Char = get(this.length - 1) //this 생략 가능
 
-fun Main.makeFuntion(): Int = this.a()
+//fun Main.makeFuntion(): Int = this.a()
 
 data class test2(val name: String, val age: Int? = null)
 

@@ -23,3 +23,9 @@ fun eval2(e: Expr) {
         throw IllegalArgumentException("UnKnown expression")
     }
 }
+
+open class Calculator() {
+    fun plus(a:Int, b:Int){
+        print("오리지날 함수")
+    }
+}

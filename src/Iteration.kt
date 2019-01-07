@@ -1,4 +1,18 @@
+package aaa
+import aas.lastChar
+import aas.view
 import java.util.*
+
+
+fun a(){
+    val c = "Kotlin".last()
+    var d : Char = "Kotlin".lastChar()
+    view()
+    aaa.iteration2()
+}
+
+fun String.lastChar():Char = get(this.length-1)
+
 
 val binaryReps = TreeMap<Char, String>() // 키에 대한 정렬을 위해 TreeMap
 fun mapIteration(){
@@ -27,3 +41,5 @@ fun recognize(c: Char) = when(c){
     in 'a'..'z', in 'A'..'Z' -> "It's a letter!" //여러 범위도 체크가능
     else -> "I dont know..."
 }
+
+
