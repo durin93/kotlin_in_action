@@ -21,7 +21,7 @@ fun b(){
     a()
 
     "".lastChar()
-//    "".aaa.lastChar()
+    
     aaa.iteration2()
 }
 

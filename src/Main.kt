@@ -30,6 +30,7 @@ fun String.lastChar() : Char = get(this.length-1)
 
 
 fun view() {
+    normalFunCall(1,3)
     val view: View = Button()
     view.click()
 }

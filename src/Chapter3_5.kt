@@ -17,6 +17,9 @@ fun main(args: Array<String>) {
 
     saveUser3(User(1,"gram","판교역로"))
 
+    val a = arrayListOf(1,2,3,4,5);
+    a.joinToString()
+
 }
 
 fun parsePath(path: String) {
