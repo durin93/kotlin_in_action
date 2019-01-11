@@ -1,6 +1,7 @@
 import strings.ChangeName;
 
-public class Test {
+public class Test implements Focusable
+{
 
 
 //    public void test(){
@@ -14,5 +15,15 @@ public class Test {
 
     public static String[] split(){
         return "12.345-6.A".split(".");
+    }
+
+    @Override
+    public void setFocus(boolean b) {
+
+    }
+
+    @Override
+    public void showOff() {
+
     }
 }

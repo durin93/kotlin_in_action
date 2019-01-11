@@ -1,5 +1,7 @@
 import java.lang.IllegalArgumentException
 
+
+
 fun main(args: Array<String>) {
     println("Kotlin".lastChar)
 
@@ -19,6 +21,8 @@ fun main(args: Array<String>) {
 
     val a = arrayListOf(1,2,3,4,5);
     a.joinToString()
+
+    kakaka()
 
 }
 
@@ -80,4 +84,8 @@ fun User.validateBeforeSave(){
 fun saveUser3(user: User){
     user.validateBeforeSave() //확장 함수 호출
     //추가로직
+
+
 }
+
+
