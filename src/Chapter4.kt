@@ -19,7 +19,7 @@ fun main(args: Array<String>) {
     val client = Client("gram", 1234)
     println(client)
 
-    Payroll.allEmployees.add(Person("gram"))
+    Payroll.allEmployees.add(Person("gram",2))
     Payroll.calculateSalary()
 
     val files = listOf(File("/Z"),File("/a"))

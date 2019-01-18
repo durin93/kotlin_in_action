@@ -2,26 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b38f557b-d9d2-48b9-b15c-2512b252d775" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mainz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nested.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Putton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringProccessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/inaction/Chapter3Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Chapter3Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/inaction/Chapter3_5Kt$saveUser2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Chapter3_5Kt$saveUser2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/inaction/Chapter3_5Kt$validateBeforeSave$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Chapter3_5Kt$validateBeforeSave$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/inaction/Chapter3_5Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Chapter3_5Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/Buser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Buser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/Button2$ButtonState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Button2$ButtonState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/Button2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Button2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/Chapter4Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Chapter4Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/Clickable$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Clickable$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/Expr2$Num2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Expr2$Num2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/Expr2$Sum2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Expr2$Sum2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/Expr2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Expr2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/Focusable$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Focusable$DefaultImpls.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/inaction/META-INF/inaction.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/META-INF/inaction.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/Mainz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Mainz.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/inaction/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/inaction/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/inaction/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/inaction/aas/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/aas/Button.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/inaction/aas/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/aas/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/inaction/aas/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/aas/View.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3_5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3_5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/Piew.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/Piew.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/PrivateUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/PrivateUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/RichButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/RichButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/SubscribingUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/SubscribingUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/TalkativeButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/TalkativeButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/UserGram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/UserGram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inaction/View$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inaction/View$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Button.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Chapter4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mainz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mainz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/til/TIL 2019-01-07.md" beforeDir="false" afterPath="$PROJECT_DIR$/til/TIL 2019-01-07.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,89 +44,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.kt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chapter6.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="156" column="4" selection-start-line="156" selection-start-column="4" selection-end-line="156" selection-end-column="4" />
+            <state relative-caret-position="714">
+              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
               <folding>
-                <element signature="e#12#72#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Mainz.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/collections/TypeAliases.kt">
+        <entry file="file://$PROJECT_DIR$/src/StringProccessor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="5" column="84" selection-start-line="5" selection-start-column="84" selection-end-line="5" selection-end-column="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter4.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#1#113#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Button.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/javax/swing/text/AttributeSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Nested.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Expr.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter3_5.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -124,9 +80,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -148,6 +104,10 @@
       <find>when</find>
       <find>하는 필드</find>
       <find>object</find>
+      <find>interface</find>
+      <find>jointo</find>
+      <find>flattern</find>
+      <find>fun</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -166,16 +126,23 @@
         <option value="$PROJECT_DIR$/src/Expr.kt" />
         <option value="$PROJECT_DIR$/src/Chapter3.kt" />
         <option value="$PROJECT_DIR$/src/FizzBuzz.kt" />
-        <option value="$PROJECT_DIR$/src/TestInterface.java" />
         <option value="$PROJECT_DIR$/src/Person.java" />
-        <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Mainz.java" />
         <option value="$PROJECT_DIR$/src/Chapter3_5.kt" />
         <option value="$PROJECT_DIR$/src/Nested.kt" />
         <option value="$PROJECT_DIR$/src/Main.kt" />
-        <option value="$PROJECT_DIR$/src/Button.java" />
+        <option value="$PROJECT_DIR$/src/TestInterface.java" />
         <option value="$PROJECT_DIR$/src/Chapter4.kt" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea.vmoptions" />
+        <option value="$PROJECT_DIR$/src/Button.java" />
+        <option value="$PROJECT_DIR$/src/Putton.java" />
+        <option value="$PROJECT_DIR$/src/OnClickListener.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/Chapter5.kt" />
+        <option value="$PROJECT_DIR$/src/Mainz.java" />
+        <option value="$PROJECT_DIR$/src/StringPrinter.java" />
+        <option value="$PROJECT_DIR$/src/StringProccessor.java" />
+        <option value="$PROJECT_DIR$/src/Chapter6.kt" />
       </list>
     </option>
   </component>
@@ -185,18 +152,21 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="490" />
-    <option name="y" value="240" />
-    <option name="width" value="1280" />
-    <option name="height" value="649" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="768" />
+    <option name="y" value="104" />
+    <option name="width" value="1350" />
+    <option name="height" value="1021" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -297,18 +267,33 @@
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="collections" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="inaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="KotlinJavaRuntime" type="70bed36:NamedLibraryElementNode" />
+              <item name="kotlin-stdlib.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="sequences" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="KotlinJavaRuntime" type="70bed36:NamedLibraryElementNode" />
+              <item name="kotlin-stdlib.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="text" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547111339453" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547701815699" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -329,7 +314,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Chapter4Kt">
+  <component name="RunManager" selected="Kotlin.Chapter5Kt">
     <configuration name="Chapter3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="inaction" />
       <option name="VM_PARAMETERS" />
@@ -369,6 +354,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chapter5Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="inaction" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Chapter5Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NestedKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="inaction" />
       <option name="VM_PARAMETERS" />
@@ -382,26 +380,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aas.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="inaction" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="aas.MainKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Chapter5Kt" />
         <item itemvalue="Kotlin.Chapter4Kt" />
         <item itemvalue="Kotlin.NestedKt" />
         <item itemvalue="Kotlin.Chapter3_5Kt" />
         <item itemvalue="Kotlin.Chapter3Kt" />
-        <item itemvalue="Kotlin.aas.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -418,17 +403,22 @@
       <workItem from="1545987274707" duration="21088000" />
       <workItem from="1546517117803" duration="740000" />
       <workItem from="1546574722036" duration="3930000" />
-      <workItem from="1546823938697" duration="29332000" />
+      <workItem from="1546823938697" duration="31279000" />
+      <workItem from="1547367057899" duration="19238000" />
+      <workItem from="1547441515248" duration="8818000" />
+      <workItem from="1547543921206" duration="7907000" />
+      <workItem from="1547775743475" duration="918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55090000" />
+    <option name="totallyTimeSpent" value="93918000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <frame x="768" y="104" width="1350" height="1021" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20571883" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3180428" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -437,7 +427,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32627738" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26049516" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -445,16 +435,16 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.329927" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5080292" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.44952893" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.327551" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32508072" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.16203336" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.32967034" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.02293578" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -575,16 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JointToString.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#44#90#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Color.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -617,13 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Collections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="2289" column="27" selection-start-line="2289" selection-start-column="27" selection-end-line="2289" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/collections/Collections.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -648,13 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter3.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -669,12 +635,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/io/Serializable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        <state relative-caret-position="1748">
+          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="96" column="6" lean-forward="true" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2652">
+          <caret line="156" column="4" selection-start-line="156" selection-start-column="4" selection-end-line="156" selection-end-column="4" />
           <folding>
-            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#12#72#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -686,31 +667,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/io/Serializable.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/javax/swing/text/AttributeSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1748">
-          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mainz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter3_5.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="391">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -721,16 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="156" column="4" selection-start-line="156" selection-start-column="4" selection-end-line="156" selection-end-column="4" />
-          <folding>
-            <element signature="e#12#72#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Expr.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -738,34 +688,126 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/javax/swing/text/AttributeSet.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter3_5.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Button.java">
+    <entry file="file://$PROJECT_DIR$/src/TestInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Collections.kt">
+    <entry file="file://$PROJECT_DIR$/src/JointToString.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="96" column="6" lean-forward="true" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
+        <state relative-caret-position="153">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <element signature="e#44#90#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter4.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="151">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Strings.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="70" column="24" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
           <folding>
-            <element signature="e#1#113#0" expanded="true" />
+            <element signature="e#0#91#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Putton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mainz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OnClickListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Sequences.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8415">
+          <caret line="501" column="27" selection-start-line="501" selection-start-column="27" selection-end-line="501" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21760">
+          <caret line="1286" column="37" selection-start-line="1286" selection-start-column="37" selection-end-line="1286" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringPrinter.java" />
+    <entry file="file://$PROJECT_DIR$/src/Chapter6.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringProccessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
         </state>
       </provider>
     </entry>
